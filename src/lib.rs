@@ -25,5 +25,11 @@ mod tests {
         let y = Matrix::id(3);
         assert_eq!(x,y);
     }
+    #[test]
+    fn test_default() {
+        let x = Matrix::default();
+        let y = matrix![[1.0]];
+        assert_eq!(y,x.to_vector());
+    }
 }
 

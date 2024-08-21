@@ -38,9 +38,6 @@ impl Matrix {
             m: matrix,
         }
     }
-    pub fn default() -> Matrix {
-        Matrix::one(1, 1)
-    }
     pub fn id(size: usize) -> Matrix {
         let mut matrix = vec![vec![1f64; size]; size];
         for r in 0..size {
@@ -183,6 +180,9 @@ impl fmt::Display for Matrix {
         }
         write!(f, "")
     }
+}
+impl Default for Matrix {
+    fn default() -> Self {Matrix::one(1, 1)}
 }
 
 // macros
