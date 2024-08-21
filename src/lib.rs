@@ -1,13 +1,6 @@
 //! The crate provides basic functionalities to create 2d matrices and apply basic algebra operations.
 //! This is intended to be a toy implementation and not suitable for production.
 //! 
-//! Author:
-//! 
-//! Christian Valdivia Torres
-//! 
-//! c.valdivia.torres@gmail.com
-//! 
-//! <https://github.com/chris-vt>
 //! 
 //! ## Examples
 //! 
