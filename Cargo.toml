@@ -8,7 +8,7 @@ description = "Rust library minimal implementation of two-dimensional matrix alg
 readme = "README.md"
 repository = "https://github.com/chris-vt/rmat"
 keywords = ["matrices", "algebra"]
-categories = ["library"]
+categories = ["data-structures"]
 
 [dependencies]
 rand = "0.8.5"
