@@ -8,7 +8,7 @@ fn test_identity_matrix() {
         [0.0,1.0,0.0],
         [0.0,0.0,1.0]
     ];
-    assert_eq!(y,x.to_vector());
+    assert_eq!(y,x.vector());
 }
 #[test]
 fn test_clone() {
@@ -26,7 +26,7 @@ fn test_equal() {
 fn test_default() {
     let x = Matrix::default();
     let y = matrix![[1.0]];
-    assert_eq!(y,x.to_vector());
+    assert_eq!(y,x.vector());
 }
 #[test]
 fn test_dot_product() {
