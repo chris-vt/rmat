@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"rmat":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.80.1/core/marker/trait.Unpin.html\" title=\"trait core::marker::Unpin\">Unpin</a> for <a class=\"struct\" href=\"rmat/struct.Matrix.html\" title=\"struct rmat::Matrix\">Matrix</a>",1,["rmat::matrix_module::Matrix"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
