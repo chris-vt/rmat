@@ -39,6 +39,7 @@ See [LICENSE-APACHE](LICENSE-APACHE.txt) and [LICENSE-MIT](LICENSE-MIT.txt).
 Christian Valdivia Torres
 
 c.valdivia.torres@gmail.com
+
 https://github.com/chris-vt
 
 
