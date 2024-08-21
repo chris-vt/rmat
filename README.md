@@ -24,8 +24,7 @@ Rmat is currently an "experimental" implementation and should not be used for pr
 Rand is distributed under the terms of both the MIT license and the
 Apache License (Version 2.0).
 
-See [LICENSE-APACHE](LICENSE-APACHE) and [LICENSE-MIT](LICENSE-MIT), and
-[COPYRIGHT](COPYRIGHT) for details.
+See [LICENSE-APACHE](LICENSE-APACHE.txt) and [LICENSE-MIT](LICENSE-MIT.txt).
 
 
 
